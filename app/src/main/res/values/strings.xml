@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exercicio intent</string>
+    <string name="titulo">Consulta aluno</string>
+    <string name="Consultar">Consultar</string>
+    <string name="sala">digite a Sala</string>
+    <string name="nome">Digite o nome</string>
+    <string name="curso">digite o curso</string>
+    <string name="dados">SEUS DADOS DA CONSULTA</string>
+    <string name="txt_nome"></string>
+    <string name="txt_sala"></string>
+    <string name="txt_curso"></string>
+
+</resources>
